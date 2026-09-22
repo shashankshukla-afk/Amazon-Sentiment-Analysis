@@ -1,0 +1,15 @@
+streamlit
+torch
+transformers
+accelerate
+plotly
+pandas
+numpy
+scikit-learn
+nltk
+matplotlib
+seaborn
+openpyxl
+joblib
+datasets
+pyarrow
